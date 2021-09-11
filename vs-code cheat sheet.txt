@@ -1,0 +1,43 @@
+CODEING LIKE A PRO IN VS-CODE
+
+    KNOW START IMPLEMENTING THE BELOW STUFF IN YOUR DAY TO DAY LIFE WHILE CODING IN VS CODE. 
+
+A) Command prompt to manipulate our vs-code:-
+   1. code (write "code" in the command prompt to direct open our vs-code)
+   2. code -r (write "code -r" in your command prompt to open previous file on which you are working in your vs-code)
+   3. code -n (write "code -n" in your command prompt to open vs-code with new window)
+   4. code --list-extensions (write "code --list-extension" in your command prompt to open which file extension is install in you vs-code)
+   5. code --list-extensions --show-version (write "code --list-extensions --show-version" in you command prompt to open file extension name with there current version is install in your vs-code)
+   6. code --version (write "code --version" in your command prompt to know about the version of your vs-code is currently install know)
+   7. code --help ( write "code --help" in your command prompt to know about the all possibles command to open our vs-code for different-different aspect)
+
+
+B) TIPS AND TRICK for VS-CODE:-
+   1. shift+alt+up/down-arrow (direct copy line in the above and down direction.)
+   2. ctrl+enter (directly move cursor to the next line.)  
+   3. alt+up/down-arrow (directly shift code above and below direction.)
+   4. alt+click (for multiple cursor selection.)
+   5. ctrl+D (to select word.)
+   6. f11 (full screen mode on/off.)
+   7. ctrl+B (side bar show and hide.)
+   8. ctrl+~ (open/close terminal.)
+   9. alt+l+o (open with live server.)
+   10. ctrl+left/right-arrow (move cursor by word left or right.)
+   11. ctrl+[/] (Indent line/four spacing like tab button but for line not for word.)
+   12. ctrl+U (to move the cursor to the last position.)
+   13. F12 (go to file.)
+   14. ctrl+shift+F (to search any word form your files.)
+   15. shift+alt+mouse-selection (to select in rectangular way.)
+   16. ctrl+F (show no. of occurrence of similar kind of word.)
+   17. ctrl+shift+l (whole selection of similar kind of word.)
+   18. ctrl+, (open setting.)
+   19. ctrl+\ (split screen vertically.)
+   20. ctrl+P (Command Pallat.)
+       >  (keyword shortcut.)       ctrl+shift+P
+       :  (to go any line.)         ctrl+go
+       @  (show all the variable, properties and tag.)
+       @: (show all the variable, properties and tag in characterized way.)
+       
+
+
+   
